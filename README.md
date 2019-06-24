@@ -1,6 +1,6 @@
-# vue_manmanmai
+# v不算完整的手机电商网站
 
-## Project setup
+## 此项目只可作为练习不可商用
 ```
 npm install
 ```
